@@ -1,0 +1,211 @@
+{
+    "Total Results": {
+        "Correct Predictions: ": 887,
+        "Total Images:": 2149,
+        "Accuracy: ": "41.27501%"
+    }
+}{
+    "Class 4 Results": {
+        "Correct Class 4 Predictions: ": 0,
+        "Total Class Images :": 12,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 5 Results": {
+        "Correct Class 5 Predictions: ": 0,
+        "Total Class Images :": 3,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 7 Results": {
+        "Correct Class 7 Predictions: ": 45,
+        "Total Class Images :": 90,
+        "Class_Accuracy: ": "50.0%"
+    }
+}{
+    "Class 8 Results": {
+        "Correct Class 8 Predictions: ": 0,
+        "Total Class Images :": 12,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 10 Results": {
+        "Correct Class 10 Predictions: ": 0,
+        "Total Class Images :": 28,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 12 Results": {
+        "Correct Class 12 Predictions: ": 0,
+        "Total Class Images :": 3,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 13 Results": {
+        "Correct Class 13 Predictions: ": 2,
+        "Total Class Images :": 39,
+        "Class_Accuracy: ": "5.1282%"
+    }
+}{
+    "Class 17 Results": {
+        "Correct Class 17 Predictions: ": 12,
+        "Total Class Images :": 183,
+        "Class_Accuracy: ": "6.5573%"
+    }
+}{
+    "Class 18 Results": {
+        "Correct Class 18 Predictions: ": 51,
+        "Total Class Images :": 122,
+        "Class_Accuracy: ": "41.803%"
+    }
+}{
+    "Class 19 Results": {
+        "Correct Class 19 Predictions: ": 80,
+        "Total Class Images :": 163,
+        "Class_Accuracy: ": "49.079%"
+    }
+}{
+    "Class 21 Results": {
+        "Correct Class 21 Predictions: ": 12,
+        "Total Class Images :": 45,
+        "Class_Accuracy: ": "26.666%"
+    }
+}{
+    "Class 27 Results": {
+        "Correct Class 27 Predictions: ": 0,
+        "Total Class Images :": 9,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 28 Results": {
+        "Correct Class 28 Predictions: ": 10,
+        "Total Class Images :": 51,
+        "Class_Accuracy: ": "19.607%"
+    }
+}{
+    "Class 29 Results": {
+        "Correct Class 29 Predictions: ": 0,
+        "Total Class Images :": 28,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 30 Results": {
+        "Correct Class 30 Predictions: ": 1,
+        "Total Class Images :": 37,
+        "Class_Accuracy: ": "2.7027%"
+    }
+}{
+    "Class 31 Results": {
+        "Correct Class 31 Predictions: ": 32,
+        "Total Class Images :": 86,
+        "Class_Accuracy: ": "37.209%"
+    }
+}{
+    "Class 32 Results": {
+        "Correct Class 32 Predictions: ": 386,
+        "Total Class Images :": 422,
+        "Class_Accuracy: ": "91.469%"
+    }
+}{
+    "Class 34 Results": {
+        "Correct Class 34 Predictions: ": 0,
+        "Total Class Images :": 9,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 35 Results": {
+        "Correct Class 35 Predictions: ": 8,
+        "Total Class Images :": 154,
+        "Class_Accuracy: ": "5.1948%"
+    }
+}{
+    "Class 37 Results": {
+        "Correct Class 37 Predictions: ": 11,
+        "Total Class Images :": 31,
+        "Class_Accuracy: ": "35.483%"
+    }
+}{
+    "Class 38 Results": {
+        "Correct Class 38 Predictions: ": 128,
+        "Total Class Images :": 207,
+        "Class_Accuracy: ": "61.835%"
+    }
+}{
+    "Class 39 Results": {
+        "Correct Class 39 Predictions: ": 26,
+        "Total Class Images :": 99,
+        "Class_Accuracy: ": "26.262%"
+    }
+}{
+    "Class 41 Results": {
+        "Correct Class 41 Predictions: ": 2,
+        "Total Class Images :": 11,
+        "Class_Accuracy: ": "18.181%"
+    }
+}{
+    "Class 42 Results": {
+        "Correct Class 42 Predictions: ": 0,
+        "Total Class Images :": 9,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 43 Results": {
+        "Correct Class 43 Predictions: ": 0,
+        "Total Class Images :": 6,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 45 Results": {
+        "Correct Class 45 Predictions: ": 0,
+        "Total Class Images :": 84,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 47 Results": {
+        "Correct Class 47 Predictions: ": 9,
+        "Total Class Images :": 31,
+        "Class_Accuracy: ": "29.032%"
+    }
+}{
+    "Class 51 Results": {
+        "Correct Class 51 Predictions: ": 3,
+        "Total Class Images :": 3,
+        "Class_Accuracy: ": "100.0%"
+    }
+}{
+    "Class 53 Results": {
+        "Correct Class 53 Predictions: ": 18,
+        "Total Class Images :": 24,
+        "Class_Accuracy: ": "75.0%"
+    }
+}{
+    "Class 54 Results": {
+        "Correct Class 54 Predictions: ": 22,
+        "Total Class Images :": 48,
+        "Class_Accuracy: ": "45.833%"
+    }
+}{
+    "Class 56 Results": {
+        "Correct Class 56 Predictions: ": 18,
+        "Total Class Images :": 33,
+        "Class_Accuracy: ": "54.545%"
+    }
+}{
+    "Class 57 Results": {
+        "Correct Class 57 Predictions: ": 11,
+        "Total Class Images :": 41,
+        "Class_Accuracy: ": "26.829%"
+    }
+}{
+    "Class 58 Results": {
+        "Correct Class 58 Predictions: ": 0,
+        "Total Class Images :": 9,
+        "Class_Accuracy: ": "0.0%"
+    }
+}{
+    "Class 59 Results": {
+        "Correct Class 59 Predictions: ": 0,
+        "Total Class Images :": 17,
+        "Class_Accuracy: ": "0.0%"
+    }
+}
